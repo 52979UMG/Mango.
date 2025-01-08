@@ -1,2 +1,2 @@
-# Mango.
+# Mango
 Testowe Repozytorium
